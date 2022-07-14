@@ -1,2 +1,2 @@
 # Figma-slicing
-Ini deskripsi
+Deksripsi......
